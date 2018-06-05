@@ -1,0 +1,112 @@
+\documentclass{fast-nuces-bs}
+
+\usepackage{blindtext}
+\usepackage{mathptmx}% Times Roman font
+\usepackage[T1]{fontenc}
+\usepackage{lipsum} 
+\usepackage{sectsty}
+\usepackage{tikz-uml}
+\usepackage{titlesec}
+\usepackage{adjustbox}
+\usepackage{listings}
+\usepackage{color}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+	backgroundcolor=\color{backcolour},   
+	commentstyle=\color{codegreen},
+	keywordstyle=\color{magenta},
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{codepurple},
+	basicstyle=\footnotesize,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b,                    
+	keepspaces=true,                 
+	numbers=left,                    
+	numbersep=5pt,                  
+	showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2
+}
+
+\lstset{style=mystyle}
+
+% Information about the Thesis 
+% -----------------------------------------------------------------------------
+% (All are compulsory, do not delete any line other than author Information)
+% For e.g., usually there are 3 students in a group, so leave authorone, 
+% authortwo, and authorthree, and delete authorfour.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\department{Department of Computer Science}
+\faculty{Computer Science}
+\degreeyear{2018}
+\degreemonth{May}
+\degreename{Computer Science}
+\campuscity{Peshawar}
+\authorone{Aziz Ullah}{p14-6111}
+\authortwo{Najeeb Khan}{p14-6112}
+\authorthree{Hafiz Saud Arshad}{p14-6097}
+%\authorfour{John Cena}{p15-6789}
+\supervisor{Dr. Omar Usman Khan}
+\sessionduration{2014-2018}
+\cosupervisor{Dr. Mohammad Nauman}
+\deanname{Dr. Hasina Khatoon}
+\directorname{Dr. Tariq Khan}
+\hodname{Dr. Omar Usman Khan}
+\fypcoordinatorname{Shakir Ullah}
+\title{Real Time Pakistani Sign Language
+	Recognition Using Kinect}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Former document starts below this
+\begin{document}
+
+\begin{acknowledgements}
+	We are very thankful to Almighty Allah who is most Merciful and most Beneficent for
+	giving us strength and courage to choose such challenging project and for completing it
+	with great dignity and grace. Lots of people played a significant role in the completion of
+	this project.
+	We firstly thanks Dr. Omar Usman Khan who motivated us to select this project. He
+	encouraged and showed us the way the project can be implemented. He has been very
+	kind, supportive and patience to us since the beginning of our project. His guidance and
+	experience brought us on the right track when we lost again and again.
+	We are highly thankful to all of our teachers who had been guiding us throughout our
+	project work. Their knowledge, guidance, and training enabled us to carry out this development work more efficiently. We would like to thank all our friends, colleagues and
+	family for their support, motivation, and suggestions about the project.
+\end{acknowledgements}
+
+\begin{abstract}
+We propose a system that would translate Pakistan Sign Language to text in real time.
+As a prototype, the system is limited to recognition of four pre-defined sentences. The system takes
+input from a Kinect Camera device as a person practices signs in front of it. The system
+generates the sentences on the screen being practiced in the sign. Our 
+system uses depth information right from the Kinect device and computes the time-series
+of a sign being practiced. The system is trained on the four sentences using Random Forest. It  evaluates the input sign on the model established after training and displays the sentence
+against the sign practiced on the screen as suggested (predicted) by model. Our tests report an accuracy of 85\% using this approach. Our work can
+be extended to commercial scale based on the schema proposed by the project.
+\end{abstract}
+
+\include{chapter1/chapter1}
+\include{chapter2/chapter2}
+\include{chapter3/chapter3}
+\include{chapter4/chapter4}
+\include{chapter5/chapter5}
+
+\include{conclusions/conclusions}
+
+\appendix
+\include{appendix1/appendix1}
+\include{appendix2/appendix2}
+
+\bibliographystyle{plain}
+\bibliography{bib} 
+\addcontentsline{toc}{chapter}{References} 
+
+\end{document}

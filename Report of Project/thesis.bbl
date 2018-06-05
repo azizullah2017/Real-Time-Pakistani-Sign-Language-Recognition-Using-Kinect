@@ -1,0 +1,45 @@
+\begin{thebibliography}{1}
+
+\bibitem{DICTAsign}
+Dicta sign.
+\newblock http://www.sign-lang.uni-hamburg.de/dicta-sign/portal/.
+
+\bibitem{MotionSavvy}
+Motion savvy.
+\newblock http://www.motionsavvy.com/.
+
+\bibitem{MSSignLanguageTranslator}
+Ms sign language translator.
+\newblock
+  https://www.microsoft.com/en-us/research/blog/kinect-sign-language-translator-part-1/.
+
+\bibitem{no1}
+Helen Cooper, Eng-Jon Ong, Nicolas Pugeault, and Richard Bowden.
+\newblock Sign language recognition using sub-units.
+\newblock In {\em Gesture Recognition}, pages 89--118. Springer, 2017.
+
+\bibitem{no5}
+Zahid Halim and Ghulam Abbas.
+\newblock A kinect-based sign language hand gesture recognition system for
+  hearing-and speech-impaired: a pilot study of pakistani sign language.
+\newblock {\em Assistive Technology}, 27(1):34--43, 2015.
+
+\bibitem{no3}
+Alina Kuznetsova, Laura Leal-Taix{\'e}, and Bodo Rosenhahn.
+\newblock Real-time sign language recognition using a consumer depth camera.
+\newblock In {\em Computer Vision Workshops (ICCVW), 2013 IEEE International
+  Conference on}, pages 83--90. IEEE, 2013.
+
+\bibitem{no2}
+Nicolas Pugeault and Richard Bowden.
+\newblock Spelling it out: Real-time asl fingerspelling recognition.
+\newblock In {\em Computer Vision Workshops (ICCV Workshops), 2011 IEEE
+  International Conference on}, pages 1114--1119. IEEE, 2011.
+
+\bibitem{no4}
+Nobuhiko Tanibata, Nobutaka Shimada, and Yoshiaki Shirai.
+\newblock Extraction of hand features for recognition of sign language words.
+\newblock In {\em International conference on vision interface}, pages
+  391--398, 2002.
+
+\end{thebibliography}

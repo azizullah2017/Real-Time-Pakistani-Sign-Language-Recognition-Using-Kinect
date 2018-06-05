@@ -1,0 +1,49 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Preliminaries and Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Overview}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Motivation}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3} Objective}{2}{section.1.3}
+\contentsline {section}{\numberline {1.4} Target Group}{2}{section.1.4}
+\contentsline {section}{\numberline {1.5} Problem Statement}{3}{section.1.5}
+\contentsline {section}{\numberline {1.6}Solution proposed}{3}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Motivation to use Kinect device for SLR}{3}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Motivation to use features from hand finger and skeleton}{4}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}Motivation to use Random Forest Classifier}{4}{subsection.1.6.3}
+\contentsline {section}{\numberline {1.7}Scope:}{5}{section.1.7}
+\contentsline {section}{\numberline {1.8}Some related famous products: }{5}{section.1.8}
+\contentsline {section}{\numberline {1.9} SWOT Analysis }{6}{section.1.9}
+\contentsline {chapter}{\numberline {2}Review of Literature}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Sub-unit based approach}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}Static Gabor filter based approach}{8}{section.2.2}
+\contentsline {section}{\numberline {2.3}ESF descriptors}{8}{section.2.3}
+\contentsline {section}{\numberline {2.4}Skin Intensity based hand-feature extraction}{9}{section.2.4}
+\contentsline {section}{\numberline {2.5}DTW based approach}{9}{section.2.5}
+\contentsline {chapter}{\numberline {3}System Analysis and Design}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}Use Case}{11}{section.3.1}
+\contentsline {section}{\numberline {3.2}Get the sign}{12}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Translate the sign}{13}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Save the Sign}{14}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Flow Diagram}{15}{section.3.3}
+\contentsline {section}{\numberline {3.4}System Sequence Diagram}{16}{section.3.4}
+\contentsline {chapter}{\numberline {4}Dataset}{17}{chapter.4}
+\contentsline {section}{\numberline {4.1}Dimensions and Size }{17}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1} Size: }{17}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2} Basic unit }{18}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2} Analysis: }{18}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1} Generalization }{18}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2} Missing Values }{18}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3} Missing Records }{20}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3} Padding}{20}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1} Feature Padding }{20}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2} Frame padding}{20}{subsection.4.3.2}
+\contentsline {chapter}{\numberline {5}PROJECT IMPLEMENTATION}{21}{chapter.5}
+\contentsline {section}{\numberline {5.1} Flow Diagram }{21}{section.5.1}
+\contentsline {section}{\numberline {5.2}Implementation}{21}{section.5.2}
+\contentsline {section}{\numberline {5.3}Baseline Results}{26}{section.5.3}
+\contentsline {section}{\numberline {5.4}Results}{27}{section.5.4}
+\contentsline {section}{\numberline {5.5}Alternative flows and approaches followed}{29}{section.5.5}
+\contentsline {section}{\numberline {5.6}Interface Description}{33}{section.5.6}
+\contentsline {chapter}{\numberline {6}Future Recommendation}{35}{chapter.6}
+\contentsline {chapter}{\numberline {A}Appendix I Code}{37}{appendix.A}
+\contentsline {chapter}{\numberline {B}Appendix I Poster}{49}{appendix.B}
+\contentsline {chapter}{References}{51}{appendix*.1}

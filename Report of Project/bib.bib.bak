@@ -1,0 +1,66 @@
+% Encoding: UTF-8
+
+@InProceedings{no2,
+  author       = {Pugeault, Nicolas and Bowden, Richard},
+  title        = {Spelling it out: Real-time ASL fingerspelling recognition},
+  booktitle    = {Computer Vision Workshops (ICCV Workshops), 2011 IEEE International Conference on},
+  year         = {2011},
+  pages        = {1114--1119},
+  organization = {IEEE},
+}
+
+@InCollection{no1,
+  author    = {Cooper, Helen and Ong, Eng-Jon and Pugeault, Nicolas and Bowden, Richard},
+  title     = {Sign Language Recognition Using Sub-units},
+  booktitle = {Gesture Recognition},
+  publisher = {Springer},
+  year      = {2017},
+  pages     = {89--118},
+}
+
+@InProceedings{no3,
+  author       = {Kuznetsova, Alina and Leal-Taix{\'e}, Laura and Rosenhahn, Bodo},
+  title        = {Real-time sign language recognition using a consumer depth camera},
+  booktitle    = {Computer Vision Workshops (ICCVW), 2013 IEEE International Conference on},
+  year         = {2013},
+  pages        = {83--90},
+  organization = {IEEE},
+}
+
+@InProceedings{no4,
+  author        = {Tanibata, Nobuhiko and Shimada, Nobutaka and Shirai, Yoshiaki},
+  title         = {Extraction of hand features for recognition of sign language words},
+  booktitle     = {International conference on vision interface},
+  year          = {2002},
+  pages         = {391--398},
+  __markedentry = {[Aziz:]},
+}
+
+@Article{no5,
+  author        = {Halim, Zahid and Abbas, Ghulam},
+  title         = {A Kinect-based sign language hand gesture recognition system for hearing-and speech-impaired: a pilot study of Pakistani sign language},
+  journal       = {Assistive Technology},
+  year          = {2015},
+  volume        = {27},
+  number        = {1},
+  pages         = {34--43},
+  __markedentry = {[Aziz:6]},
+  publisher     = {Taylor \& Francis},
+}
+
+@Misc{DICTAsign,
+  title = {DICTA sign},
+  note  = {http://www.sign-lang.uni-hamburg.de/dicta-sign/portal/},
+}
+
+@Misc{MotionSavvy,
+  title = {Motion Savvy},
+  note  = {http://www.motionsavvy.com/},
+}
+
+@Misc{MS Sign Language Translator,
+  title = {MS Sign Language Translator},
+  note  = {https://www.microsoft.com/en-us/research/blog/kinect-sign-language-translator-part-1/},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
